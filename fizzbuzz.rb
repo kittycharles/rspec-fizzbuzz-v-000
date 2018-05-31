@@ -6,4 +6,4 @@ def fizzbuzz(x)
 
 end
 
-fizzbuzz(7)
+fizzbuzz(9)
