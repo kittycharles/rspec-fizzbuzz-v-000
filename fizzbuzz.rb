@@ -5,10 +5,10 @@ def fizzbuzz(x)
     puts "buzz"
   elsif [x % 3 == 0 && x % 5 == 0]
     puts "fizzbuzz"
-  elsif puts x
   end
 end
 
 fizzbuzz(18)
 fizzbuzz(25)
 fizzbuzz(30)
+fizzbuzz(2)
