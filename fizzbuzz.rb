@@ -1,10 +1,9 @@
 def fizzbuzz(x)
-  if x / 3 == 3
+  if x / 3 == 0
     puts "fizz"
   else nil
   end
 
 end
 
-fizzbuzz(9)
-fizzbuzz(6)
+fizzbuzz(7)
