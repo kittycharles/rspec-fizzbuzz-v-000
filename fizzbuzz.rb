@@ -8,3 +8,7 @@ def fizzbuzz(x)
   elsif puts x
   end
 end
+
+fizzbuzz(18)
+fizzbuzz(25)
+fizzbuzz(30)
