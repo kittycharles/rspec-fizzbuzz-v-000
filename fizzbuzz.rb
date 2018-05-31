@@ -11,4 +11,3 @@ end
 fizzbuzz(18)
 fizzbuzz(25)
 fizzbuzz(30)
-fizzbuzz(2)
