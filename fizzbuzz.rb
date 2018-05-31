@@ -1,5 +1,5 @@
 def fizzbuzz(x)
-  if x / 3 == 0
+  if x % 3 == 0
     puts "fizz"
   else nil
   end
